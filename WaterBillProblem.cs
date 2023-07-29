@@ -10,8 +10,8 @@ namespace WaterBillProblem
     {
         static void Main(string[] args)
         {
-            int MeterCharge = 75;
-            int TotalBillAmount = 0;
+            int meterCharge = 75;
+            int totalBillAmount = 0;
             int charge = 0;
             Console.WriteLine("WATER BILL CALCULATOR");
             Console.WriteLine("-----------------------------------------------------------");
