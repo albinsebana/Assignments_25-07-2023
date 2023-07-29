@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\bin\Debug\TreasureHuntGame.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\bin\Debug\TreasureHuntGame.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\bin\Debug\TreasureHuntGame.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\obj\Debug\TreasureHuntGame.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\obj\Debug\TreasureHuntGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\obj\Debug\TreasureHuntGame.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\obj\Debug\TreasureHuntGame.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TreasureHuntGame\TreasureHuntGame\obj\Debug\TreasureHuntGame.pdb

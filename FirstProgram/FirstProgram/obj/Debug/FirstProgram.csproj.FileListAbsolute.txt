@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb

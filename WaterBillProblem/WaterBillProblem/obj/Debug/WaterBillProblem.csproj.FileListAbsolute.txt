@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\bin\Debug\WaterBillProblem.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\bin\Debug\WaterBillProblem.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\bin\Debug\WaterBillProblem.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\obj\Debug\WaterBillProblem.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\obj\Debug\WaterBillProblem.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\obj\Debug\WaterBillProblem.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\obj\Debug\WaterBillProblem.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\WaterBillProblem\WaterBillProblem\obj\Debug\WaterBillProblem.pdb

@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb

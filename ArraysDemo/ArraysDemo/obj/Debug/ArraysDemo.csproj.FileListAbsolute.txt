@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.pdb
