@@ -20,22 +20,22 @@ namespace WaterBillProblem
             if (units <= 100)
             {
                 charge = units * 5;
-                TotalBillAmount = charge + MeterCharge;
-                Console.WriteLine("Total Water Bill Amount : " + TotalBillAmount);
+                totalBillAmount = charge + meterCharge;
+                Console.WriteLine("Total Water Bill Amount : " + totalBillAmount);
             }
             else
             {
                 if (units <= 250)
                 {
                     charge = units * 10;
-                    TotalBillAmount = charge + MeterCharge;
-                    Console.WriteLine("Total Water Bill Amount: " + TotalBillAmount);
+                    totalBillAmount = charge + meterCharge;
+                    Console.WriteLine("Total Water Bill Amount: " + totalBillAmount);
                 }
                 else
                 {
                     charge = units * 20;
-                    TotalBillAmount = charge + MeterCharge;
-                    Console.WriteLine("Total Water Bill Amount : " + TotalBillAmount);
+                    totalBillAmount = charge + meterCharge;
+                    Console.WriteLine("Total Water Bill Amount : " + totalBillAmount);
                 }
             }
         }
