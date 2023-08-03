@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\bin\Debug\BoxingUnboxingDemo.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\bin\Debug\BoxingUnboxingDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\bin\Debug\BoxingUnboxingDemo.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\BoxingUnboxingDemo\BoxingUnboxingDemo\obj\Debug\BoxingUnboxingDemo.pdb
