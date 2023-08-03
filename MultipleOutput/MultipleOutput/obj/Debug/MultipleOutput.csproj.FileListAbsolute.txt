@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\bin\Debug\MultipleOutput.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\bin\Debug\MultipleOutput.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\bin\Debug\MultipleOutput.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\obj\Debug\MultipleOutput.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\obj\Debug\MultipleOutput.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\obj\Debug\MultipleOutput.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\obj\Debug\MultipleOutput.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\MultipleOutput\MultipleOutput\obj\Debug\MultipleOutput.pdb

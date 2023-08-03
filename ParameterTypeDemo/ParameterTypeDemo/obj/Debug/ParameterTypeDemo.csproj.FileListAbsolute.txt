@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\bin\Debug\ParameterTypeDemo.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\bin\Debug\ParameterTypeDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\bin\Debug\ParameterTypeDemo.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParameterTypeDemo\ParameterTypeDemo\obj\Debug\ParameterTypeDemo.pdb

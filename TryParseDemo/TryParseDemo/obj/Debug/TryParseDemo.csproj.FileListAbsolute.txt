@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\bin\Debug\TryParseDemo.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\bin\Debug\TryParseDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\bin\Debug\TryParseDemo.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\obj\Debug\TryParseDemo.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\obj\Debug\TryParseDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\obj\Debug\TryParseDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\obj\Debug\TryParseDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\TryParseDemo\TryParseDemo\obj\Debug\TryParseDemo.pdb

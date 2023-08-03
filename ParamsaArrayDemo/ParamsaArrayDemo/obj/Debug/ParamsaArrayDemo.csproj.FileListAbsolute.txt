@@ -1,0 +1,8 @@
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\bin\Debug\ParamsaArrayDemo.exe.config
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\bin\Debug\ParamsaArrayDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\bin\Debug\ParamsaArrayDemo.pdb
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\obj\Debug\ParamsaArrayDemo.csproj.AssemblyReference.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\obj\Debug\ParamsaArrayDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\obj\Debug\ParamsaArrayDemo.csproj.CoreCompileInputs.cache
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\obj\Debug\ParamsaArrayDemo.exe
+C:\Users\albin\OneDrive\Desktop\Dotnet\day2\ParamsaArrayDemo\ParamsaArrayDemo\obj\Debug\ParamsaArrayDemo.pdb
